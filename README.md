@@ -27,5 +27,3 @@ This is a portfolio website built to:
 
 ---
 
-## 📂 Project Structure
-
